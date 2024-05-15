@@ -1,0 +1,10 @@
+ @media (max-width:477px){
+    .box{
+        width: 350px;
+    }
+
+    .mainpage {
+       
+        margin-left: 30px;
+    }
+} 
